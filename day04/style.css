@@ -1,0 +1,34 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color:  blueviolet;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.837);
+}
+
+.card h2 {
+    margin: 0;
+    color: aqua;
+}
+
+.card .title {
+    color: aqua;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.card p {
+    margin: 5px 0;
+    color: aqua;
+    font-size: 14px;
+}
